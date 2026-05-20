@@ -15,7 +15,7 @@ Applied K-Means clustering to surface natural customer groupings and used PCA to
 - PCA visualisation
 - Screenshots
 - Report
-- Dataset excluded due to file size.
+  
 ## Tools
 
 Python · K-Means · PCA · Seaborn · EDA · Unsupervised Learning
